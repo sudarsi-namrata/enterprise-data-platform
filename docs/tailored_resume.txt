@@ -1,0 +1,104 @@
+NAMRATA RAVINDRA SUDARSI
+(408) 475-0840 | Email | LinkedIn | GitHub | Portfolio
+
+PROFESSIONAL SUMMARY
+8 years of experience in Java Full Stack development with deep expertise in designing, developing, and delivering scalable enterprise applications across energy/utilities, government, healthcare, financial services, automotive, and pharmaceutical domains.
+Expert in Java (8, 11, 17) and Spring Boot with specialization in microservices architecture, RESTful API design, and end-to-end service development including Oracle database optimization, batch processing, and distributed system design.
+Proficient in full-stack development with Angular, React.js, and JavaScript/TypeScript, building responsive enterprise web and mobile interfaces with Bootstrap and Material UI.
+Strong backend foundation in Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Batch, Spring AOP) and Hibernate ORM for enterprise-grade applications with configurable business rule engines.
+Skilled in relational databases (Oracle, PostgreSQL, MySQL) and NoSQL stores (MongoDB, Redis, Elasticsearch), including complex schema design, materialized views, stored procedures, and query optimization for large-scale transactional systems.
+Hands-on with cloud platforms (AWS EC2/S3/Lambda/EKS/RDS/CloudFormation, Azure) and CI/CD pipeline automation using Jenkins, GitLab CI/CD, Maven, and Gradle.
+Experienced with Docker, Kubernetes, and Helm for containerized deployments, as well as Apache Kafka and event-driven architecture for real-time data processing and batch integration workflows.
+Committed to software quality through JUnit 5, Mockito, Testcontainers, Selenium, SonarQube, and TDD practices across unit, integration, and UI testing.
+Proven track record delivering compliant solutions in regulated environments (HIPAA, PCI-DSS, SOX, GxP) with secure coding, audit logging, and role-based access controls.
+Hands-on technical leader with experience mentoring junior engineers, leading code reviews, driving architecture decisions, and presenting technical solutions to non-technical stakeholders in Agile/Scrum/Kanban environments.
+
+TECHNICAL SKILLS
+Languages            Java (8, 11, 17), Groovy, Python, JavaScript, TypeScript, SQL, HTML, CSS
+Backend / Frameworks Spring Boot, Spring MVC, Spring Data JPA, Spring Batch, Spring Security, Spring AOP, Hibernate ORM, RESTful APIs, GraphQL, Microservices
+Frontend             Angular, React.js, Redux, Node.js, HTML5, CSS3, Bootstrap, Material UI
+API & Integration    REST, GraphQL, Swagger/OpenAPI, Apigee, API Gateway, End-to-End Service Design
+Databases            Oracle, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+Cloud & DevOps       AWS (EC2, S3, Lambda, API Gateway, RDS, EKS, CloudFormation), Azure, Docker, Kubernetes, Helm
+Messaging            Apache Kafka, Spring Cloud Stream, JMS, Event-Driven Architecture
+CI/CD & Build        Jenkins, GitLab CI/CD, Maven, Gradle, Shell Scripting
+Testing & Quality    JUnit 5, Mockito, Testcontainers, Selenium, TestNG, SonarQube, TDD
+Observability        Splunk, Grafana, Prometheus, ELK Stack, Log4J
+Security             OAuth 2.0, JWT, Spring Security, SSL/TLS, RBAC
+Methodologies        Agile, Scrum, Kanban, Scaled Agile, SDLC, TDD, CI/CD, Solution Architecture, System Design
+Tools                Git, GitHub, BitBucket, JIRA, IntelliJ IDEA, VS Code, Linux/Unix, Solaris
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Associate
+
+PROJECTS
+---------
+Utility Billing Engine                     github.com/sudarsi-namrata/utility-billing-engine
+- Architected a meter-to-cash billing engine processing 500K+ meter reads daily using Java 17, Spring Boot, and Oracle DB with configurable tariff calculation rules and automated billing cycle management
+- Built Groovy-based scripting engine for dynamic business rule configuration, enabling non-developer billing analysts to modify rate calculations and validation logic without code deployments
+- Implemented Spring Batch jobs for nightly billing runs, payment posting, and account aging across 200K+ customer accounts with checkpoint restart and skip-retry fault tolerance
+
+Enterprise Data Platform                   github.com/sudarsi-namrata/enterprise-data-platform
+- Designed enterprise data integration platform consolidating 12 upstream data sources into a unified API layer using Java 17, Spring Boot, and Kafka with real-time and batch processing modes
+- Built configurable ETL pipeline with Spring Batch processing 2M+ records nightly from legacy Oracle systems with data validation, transformation, and reconciliation reporting
+- Implemented multi-cloud deployment (AWS + Azure) with Docker containerization, Jenkins CI/CD, and Grafana monitoring dashboards tracking data freshness and pipeline health
+
+PROFESSIONAL EXPERIENCE
+Java Full Stack Developer
+State Water Resources Control Board (SWRCB), State of California | Sacramento, CA | Jun 2024 - Present
+Architected full-stack microservices with Java 17, Spring Boot, and Angular 16 to modernize the California Integrated Water Quality System (CIWQS), a statewide platform used by 9 Regional Water Boards managing NPDES permits and compliance enforcement across thousands of regulated facilities.
+Built and optimized RESTful APIs with Spring MVC and Spring Data JPA for eSMR submission, permit lifecycle management, SSO reporting, and user registration workflows, reducing API response times by 40% through query optimization and caching.
+Designed Oracle and PostgreSQL schemas for compliance violation tracking and water quality monitoring data; wrote materialized views enabling sub-second reporting across 5M+ historical records.
+Implemented Kafka-based event-driven pipelines for asynchronous compliance data uploads, automated EPA export generation, and real-time water quality breach notifications processing 10K+ events daily.
+Developed public-facing reporting dashboards using Angular, RXJS, and Chart.js with drill-down filtering by county, regional board, and violation type; built internal permit management UI with Bootstrap and Material UI.
+Configured Spring Security with OAuth 2.0 and JWT for role-based access supporting Legally Responsible Officials and Data Submitters with tiered facility-level permissions across 9 regional boards.
+Containerized services with Docker and deployed to Kubernetes on AWS; built Jenkins CI/CD pipelines with Maven builds, SonarQube quality gates, and automated integration test suites.
+Developed Groovy-based configuration scripts for dynamic compliance rule validation, enabling rapid policy updates without full deployment cycles.
+Led code reviews and mentored 2 junior developers on Angular component design patterns and Spring Boot best practices; presented architecture decisions to cross-functional stakeholders including Regional Board case workers, Product, QA, and Architecture teams.
+
+Java Developer
+Johnson & Johnson | New Brunswick, NJ | Sep 2023 - May 2024
+Developed and maintained RESTful microservices using Java 17 and Spring Boot 3.x for the Engagement.AI analytics platform, serving tailored HCP interaction insights across 14 global markets.
+Built event-driven data ingestion pipelines using Apache Kafka and Spring Cloud Stream to process 50K+ real-time provider engagement events daily from CRM integrations.
+Designed and optimized PostgreSQL and MongoDB schemas for storing de-identified patient engagement metrics, reducing query latency by 35% through index tuning and query refactoring.
+Implemented secure API endpoints with Spring Security and OAuth 2.0 for role-based access control across internal medical science liaison tools.
+Containerized microservices using Docker and deployed to AWS EKS clusters via Jenkins CI/CD pipelines with automated unit and integration testing (JUnit 5, Mockito, Testcontainers).
+Collaborated with cross-functional teams including data scientists and product owners in Agile/Scrum sprints to translate complex business requirements into technical user stories and system design specifications.
+Authored comprehensive API documentation using Swagger/OpenAPI and contributed to internal developer wiki for onboarding across 3 engineering teams.
+
+Full Stack Java Developer
+General Motors | Detroit, MI | Aug 2022 - Jul 2023
+Led the legacy-to-cloud migration of the dealer service management platform, delivering 15+ RESTful API endpoints across Spring Boot microservices on Java 17 and AWS.
+Built a Kafka consumer to ingest 8K+ daily vehicle diagnostic events from dealership IoT systems, incorporating dead-letter queue handling and retry logic for failed messages.
+Executed a Spring Batch migration job to move 2.5M+ historical service records from a legacy Oracle database to PostgreSQL with zero data loss and full reconciliation reporting.
+Identified and resolved an N+1 query bottleneck on the parts-lookup service, reducing P95 response times from 3.2s to 180ms through batch fetching and index optimization.
+Integrated OAuth2/JWT authentication with Spring Security and configured role-based access control across 8 microservices serving dealership, technician, and fleet manager roles.
+Grew unit test coverage from 42% to 87% using JUnit 5, Mockito, and Testcontainers for integration testing against PostgreSQL.
+Strengthened the Jenkins CI/CD pipeline by introducing SonarQube quality gates, automated integration tests, and Docker image vulnerability scanning, reducing production defects by 60%.
+Set up structured logging with SLF4J/Logback and created Grafana dashboards for tracking API latency and error rates via Spring Actuator, enabling proactive incident detection.
+
+Java Full Stack Developer
+Infosys Limited | Client: Wells Fargo | (Remote) | Dec 2019 - Jun 2022
+Built and maintained RESTful APIs using Java 8/11 and Spring Boot for Wells Fargo's Consumer Lending Loan Origination System, supporting 15K+ monthly loan applications across pre-qualification, underwriting, and closing stages.
+Led the migration of legacy J2EE monolithic loan processing modules to Spring Boot microservices, cutting loan processing turnaround from 7 business days to 2 business days.
+Developed Kafka producers and consumers across 6 topics for real-time loan status streaming, covering mortgage status changes, closing document triggers, and escrow payment workflows.
+Introduced a Redis caching layer for third-party credit bureau API calls, reducing redundant requests by 70% and lowering annual vendor fees by $180K.
+Designed Oracle and PostgreSQL schemas with Hibernate ORM, applying lazy loading, batch fetching, and index tuning for reporting across a 500K+ active loan portfolio.
+Integrated REST APIs with core banking systems, Ellie Mae Encompass, and third-party services for flood zone, title search, and appraisal processing — coordinating end-to-end service design across 4 external vendor APIs.
+Led front-end development of the loan officer dashboard using React.js, Redux, and Bootstrap with real-time application status tracking and batch payment processing views.
+Enforced PCI-DSS and SOX compliance through OAuth 2.0, JWT, and Spring Security with role-based access controls; implemented audit logging for all financial transaction processing.
+Containerized services with Docker and deployed on OpenShift via Jenkins CI/CD pipelines, moving from monthly to bi-weekly release cycles with zero-downtime deployments.
+Maintained 92% test coverage with JUnit 5, Mockito, and Selenium; enforced SonarQube quality gates across all services.
+Coordinated with onshore Wells Fargo teams in Scaled Agile ceremonies; led knowledge transfer sessions for 5 onshore developers and managed sprint backlogs on JIRA Kanban boards.
+
+Software Developer
+Procial | Hyderabad, India | Jun 2018 - Nov 2019
+Developed drug inventory management and clinical trial tracking applications using Java, Spring Framework, and Hibernate in a GxP-compliant environment supporting FDA audit readiness.
+Created RESTful controllers and DAOs with Spring Data JPA for CRUD operations; designed PostgreSQL schemas with stored procedures for pharmaceutical reporting across 50+ drug batches.
+Built backend services with Spring Core, Spring AOP, and Log4J for dependency injection, audit logging, and regulatory traceability.
+Designed front-end views using Spring MVC, JSP, JavaScript, jQuery, HTML, and CSS for drug batch tracking and warehouse dashboards.
+Implemented JMS message listeners for asynchronous batch release notifications; wrote unit tests with JUnit and Mockito achieving 80% coverage.
+Automated builds and deployments with Jenkins, Maven, and AWS CodePipeline; deployed on Apache Tomcat and JBoss across Linux and Solaris environments.
+
+EDUCATION
+Master of Science, Computer Science - Santa Clara University, Santa Clara, CA
